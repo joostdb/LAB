@@ -58,7 +58,7 @@
             background-color: rgba(255, 255, 255, 0.8);
             padding: 10px;
             border-radius: 5px;
-            display: inline; /* Start hidden */
+            display: none; /* Start hidden */
         }
         .step {
             opacity: 0.5;
